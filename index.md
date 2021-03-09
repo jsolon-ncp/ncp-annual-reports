@@ -1,10 +1,10 @@
-## NCP Annual reports
+## NCP Annual Reports
 
 ### 2020
 
 ### 2019
 
-### 2018
+### [2018](https://github.com/jsolon-ncp/ncp-annual-reports/blob/main/AnnualReport_2018_pub.pdf)
 
 ### [2017](https://github.com/jsolon-ncp/ncp-annual-reports/blob/main/AnnualReport_2017_PDF_sgd2.pdf)
 
